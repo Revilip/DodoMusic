@@ -74,9 +74,11 @@ def process():
 
 process()
 
-print(len(data))
-print(data)
-print(time)
+#print(len(data))
+#print(data)
+#print(time)
+
+print("Processing...Please wait.")
 
 def freq(q):
     if(q==-1):
